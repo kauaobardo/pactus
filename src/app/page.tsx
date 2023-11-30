@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <main>
+    <div>
       <h1>Pactus - Energia Solar</h1>
-    </main>
+    </div>
   )
 }
